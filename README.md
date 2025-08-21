@@ -1,5 +1,7 @@
 # Role Model – MVP
 
+_We all need Role Models_
+
 A tiny, demonstrable framework for **scoped AI agent behavior**: **modular roles**, **memory hygiene**, and **runtime guardrails**. 
 Use it to showcase the core of your patent‑pending Role Model idea with a simple CLI and optional API for demos/GitHub.
 
