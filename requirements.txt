@@ -1,0 +1,6 @@
+# Core demo has no hard deps; EchoProvider works without extras.
+# Optional extras for the API demo:
+fastapi>=0.110.0
+uvicorn>=0.29.0
+# Optional OpenAI provider (uncomment if you want):
+# openai>=1.40.0
