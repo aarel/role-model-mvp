@@ -127,24 +127,3 @@ class MyRole(BaseRole):
 ```
 
 Then it’s auto‑discoverable by the runtime.
-
----
-
-## Why this helps your portfolio
-
-- **Shows a working interpretation** of your Role Model architecture.
-- **Demonstrates guardrails & hygiene** in a way hiring managers can read quickly.
-- **Easily demoable** in interviews (CLI) and as a small service (API).
-- **LLM‑agnostic** with a drop‑in provider shim.
-
----
-
-## Notes
-
-- This repository is an MVP and not a production policy engine.
-- Mentions of Role Model and Companion align with your patent‑pending framework; keep it scoped to demonstrations.
-- Licensed MIT for maximum sharing.
-
----
-
-**Author:** Adam Arellano · Austin, TX · 2025
