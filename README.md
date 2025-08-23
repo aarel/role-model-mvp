@@ -1,4 +1,3 @@
-engine = PromptModeV2(model=LocalMock())
 # Role Model MVP
 
 A lightweight framework for **scoped AI agent behavior** with modular roles, memory hygiene, and runtime guardrails.
